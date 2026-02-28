@@ -1,40 +1,35 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Sourav%20Mahato&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI%2FML+Enthusiast;Data+Science+Learner;Building+Scalable+Applications"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=souravmahato2004&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20🕹️&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
----
-
-## 👨‍💻 About Me
+# Hi, I'm Sourav Mahato 👋  
 
 ```yaml
-🎓 NIT Sikkim
-💻 Full-Stack Web Developer
-🤖 AI/ML Enthusiast
-📊 Data Science Explorer
-🚀 Passionate about scalable systems & intelligent solutions
+Web Developer | AI/ML Enthusiast | Data Science Learner
+NIT Sikkim
+Building scalable applications & intelligent systems
 ```
-⚡ Tech Stack
-Programming
+🚀 About Me
+
+💻 Passionate about Full-Stack Web Development
+🤖 Exploring Machine Learning & Deep Learning
+📊 Love working with data-driven systems
+🌱 Currently improving backend scaling & ML architectures
+
+🛠️ Tech Stack
+💻 Programming
 
 Python • C++ • Java • C
 
-Web
+🌐 Web Development
 
-React • Node.js • Express • PHP
+React.js • Node.js • Express.js • PHP
 MongoDB • MySQL
-HTML • CSS • JavaScript • Tailwind
+HTML • CSS • JavaScript • Tailwind CSS
 
-AI / ML
+🤖 AI / ML
 
-NumPy • Pandas • Scikit-learn • PyTorch
+NumPy • Pandas • Matplotlib • Seaborn
+Scikit-learn • PyTorch
 
-🚀 Tools
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=souravmahato2004&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravmahato2004&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmahato2004&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/> </p>
